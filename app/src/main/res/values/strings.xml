@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="cats"> <item>Просто кот</item>
+        <item>Рыжик - рыжий кот</item>
+        <item>Барсик болеет за Барселону</item>
+        <item>Мурзик выписывает Мурзилку</item>
+    </string-array>
+    <string name="app_name">FragmentExample</string>
+    <string name="Ryzhyk">Рыжик</string>
+    <string name="barsik">Барсик</string>
+    <string name="murzik">Мурзик</string>
+    <string name="cat_description">Описание кота</string>
+    <string name="cats_photo">Cats Photo</string>
+</resources>
